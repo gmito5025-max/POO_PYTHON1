@@ -22,6 +22,5 @@ class Pessoa:
 # criar um objeto (uma pessoa)
 p1 = Pessoa("Santt",17 )
 
-# chamar o metodo 2
+# chamar o metodo 
 p1.apresentar()
-#testando
